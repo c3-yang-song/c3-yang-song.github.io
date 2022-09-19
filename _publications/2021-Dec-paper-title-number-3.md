@@ -1,4 +1,5 @@
 ---
+author: Q. Kang*, __Y. Song*__, Q. Ding, and W. P. Tay
 title: "Stable neural ODE with Lyapunov-stable equilibrium points for defending against adversarial attacks"
 collection: publications
 permalink: /publication/NeurIPS2021
