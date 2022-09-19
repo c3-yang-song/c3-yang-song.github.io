@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-* I have taken a new role as a senior data scientist at [C3.ai](https://c3.ai/).
+* From July 2022, I have started a new adventure in industry.
 * Our paper entitled "[On the robustness of graph neural diffusion to topology perturbations](https://arxiv.org/abs/2209.07754)"  has been accepted by [
 NeurIPS 2022] (acceptance rate: 25.6%).
 * One paper entitled "[Stable neural ODE with Lyapunov-stable equilibrium points for defending against adversarial attacks](https://arxiv.org/abs/2110.12976)" has been accepted by  [
