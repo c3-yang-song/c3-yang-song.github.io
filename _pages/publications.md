@@ -8,7 +8,7 @@ author_profile: true
 
 ### Adversarial Robustness
 1. <b>[On the robustness of graph neural diffusion to topology perturbations](https://arxiv.org/abs/2209.07754)</b> <br> 
-__Y. Song*__, Q. Kang*, S. Wang*, K. Zhao*, and W. P. Tay<br>
+<b> Y. Song* </b>, Q. Kang*, S. Wang*, K. Zhao*, and W. P. Tay<br>
 <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2022. (<b>*Equal Constribution</b>)
 
 
@@ -17,7 +17,7 @@ Q. Kang*, __Y. Song*__, Q. Ding, and W. P. Tay<br>
 <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, Dec. 2021. (<b>*Equal Constribution</b>)
 
 1. <b>[Error-correcting output codes with ensemble diversity for robust learning in neural networks](https://arxiv.org/abs/2110.12976)</b> <br> 
-__Y. Song*__, Q. Kang*, and W. P. Tay<br>
+<b> Y. Song* </b>, Q. Kang*, and W. P. Tay<br>
 <i>Proc. AAAI Conference on Artificial Intelligence</i>, 2021. (<b>*Equal Constribution</b>)
 
 
@@ -37,7 +37,7 @@ __Y. Song__, C. X. Wang, and W. P. Tay,<br>
 
 ### Sensor Fusion and SLAM:
 1. <b>[UWB/LiDAR fusion for cooperative range-only SLAM]()</b> <br> 
-__Y. Song*__, M. Guan*, W. P. Tay, C. L. Law, and C. Wen<br>
+<b> Y. Song* </b>, M. Guan*, W. P. Tay, C. L. Law, and C. Wen<br>
 <i>Int. Conf. on Robotics and Automation (ICRA)</i>, Montreal, Canada, May 2019. (<b>*Equal Constribution</b>)
 
 
