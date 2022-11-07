@@ -8,7 +8,7 @@ author_profile: true
 
 ### Adversarial Robustness
 1. <b>[On the robustness of graph neural diffusion to topology perturbations](https://arxiv.org/abs/2209.07754)</b> <br> 
-<b> Y. Song* </b>, Q. Kang*, S. Wang*, K. Zhao*, and W. P. Tay<br>
+<b> Y. Song* </b>, Q. Kang{*}, S. Wang{*}, K. Zhao*, and W. P. Tay<br>
 <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2022. (<b>*Equal Constribution</b>)
 
 
