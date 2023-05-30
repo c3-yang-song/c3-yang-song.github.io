@@ -20,6 +20,15 @@ Q. Kang*, __Y. Song*__, Q. Ding, and W. P. Tay<br>
 <b> Y. Song* </b>, Q. Kang*, and W. P. Tay<br>
 <i>Proc. AAAI Conference on Artificial Intelligence</i>, 2021. (<b>*Equal Constribution</b>)
 
+### Graph Neural Diffusion
+1. <b>Graph neural convection-diffusion with heterophily</b> <br> 
+K. Zhao, Q. Kang, <b> Y. Song </b>, R. She, S. Wang, and W. P. Tay<br>
+<i>Proc. International Joint Conference on Artificial Intelligence (IJCAI)</i>, Macao, China, Aug. 2023.
+
+1. <b>Node embedding from neural Hamiltonian orbits in graph neural networks</b> <br> 
+Q. Kang, K. Zhao, <b> Y. Song </b>, S. Wang, and W. P. Tay<br>
+<i>Proc. International Conference on Machine Learning (ICML)</i>, Haiwaii, USA, Jul. 2023. 
+
 
 ### Privacy-Aware Signal Processing
 1. <b>[Preserving trajectory privacy in driving data release]()</b> <br> 
