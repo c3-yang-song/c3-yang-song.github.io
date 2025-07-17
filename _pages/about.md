@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a <b>Senior Data Scientist</b> at [C3.ai](https://c3.ai/).
+* I am currently a <b>Lead Data Scientist</b> at [C3.ai](https://c3.ai/).
 
 * I obtained my PhD from The Hong Kong Polytechnic University, Hong Kong under the supervision of Prof. [Kainam Thomas Wang](https://scholar.google.se/citations?user=kCs2aSQAAAAJ&hl=en). From 2014 - 2016, I was a Postdoc at University Paderborn, Germany, working with Prof. [Peter Schreier](https://sst-group.org/). From 2016 to 2022, I have been working as a Senior Research Fellow with Prof. [Tay Wee Peng](https://personal.ntu.edu.sg/wptay/) at Nanyang Technological University, Singapore.
 
