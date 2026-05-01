@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yang Song"
 title_separator          : "-"
 name                     : &name "Yang Song"
-description              : &description "personal description"
+description              : &description "Personal academic website of Yang Song"
 url                      : https://c3-yang-song.github.io # 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yang Song"
   avatar           : "profile1.png"
-  bio              : "Senior Data Scientist at C3.ai"
+  bio              : "Staff MLE at PayPal | Agentic Systems"
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D, The Hong Kong Polytechnic University, Hong Kong
+  * Supervisor: Prof. Kainam Thomas Wang
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2026 – Present: Staff Machine Learning Engineer
+  * PayPal, Agentic Systems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* July 2022 – April 2026: Lead Data Scientist
+  * C3.ai, Singapore
+
+* 2016 – 2022: Senior Research Fellow
+  * Nanyang Technological University, Singapore
+  * Supervisor: Prof. Tay Wee Peng
+
+* 2014 – 2016: Postdoctoral Researcher
+  * University of Paderborn, Germany
+  * Supervisor: Prof. Peter Schreier
 
 Publications
 ======
@@ -53,7 +47,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

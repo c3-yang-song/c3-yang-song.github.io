@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a <b>Lead Data Scientist</b> at [C3.ai](https://c3.ai/).
+* I am currently a <b>Staff Machine Learning Engineer</b> at [PayPal](https://www.paypal.com/), working on agentic systems.
 
 * I obtained my PhD from The Hong Kong Polytechnic University, Hong Kong under the supervision of Prof. [Kainam Thomas Wang](https://scholar.google.se/citations?user=kCs2aSQAAAAJ&hl=en). From 2014 - 2016, I was a Postdoc at University Paderborn, Germany, working with Prof. [Peter Schreier](https://sst-group.org/). From 2016 to 2022, I have been working as a Senior Research Fellow with Prof. [Tay Wee Peng](https://personal.ntu.edu.sg/wptay/) at Nanyang Technological University, Singapore.
 
@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* Our paper entitled "[NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](https://arxiv.org/abs/2601.21372)" has been accepted by ICML 2026.
 * Our paper entitled "Node embedding from neural Hamiltonian orbits in graph neural networks"  has been accepted by
 ICML 2023 (acceptance rate: 27.9%).
 * Our paper entitled "Graph neural convection-diffusion with heterophily"  has been accepted by

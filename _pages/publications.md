@@ -6,6 +6,11 @@ author_profile: true
 
 ## Selected Publications
 
+### Autonomous Coding Agents
+1. <b>[NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](https://arxiv.org/abs/2601.21372)</b> <br>
+__Y. Song__, A. Vyas, Z. Wei, S. Khoshfetrat Pakazad, H. Ohlsson, and G. Neubig<br>
+<i>Proc. International Conference on Machine Learning (ICML)</i>, 2026.
+
 ### Adversarial Robustness
 1. <b>[On the robustness of graph neural diffusion to topology perturbations](https://arxiv.org/abs/2209.07754)</b> <br> 
 <b> Y. Song* </b>, Q. Kang*, S. Wang*, K. Zhao*, and W. P. Tay<br>
