@@ -10,13 +10,15 @@ redirect_from:
 
 * I am currently a <b>Staff Machine Learning Engineer</b> at [PayPal](https://www.paypal.com/), working on agentic systems.
 
+* Previously, I was a <b>Lead Data Scientist</b> at [C3.ai](https://c3.ai/), where I built enterprise AI systems with a main focus on LLM pretraining, finetuning, and autonomous agentic systems.
+
 * I obtained my PhD from The Hong Kong Polytechnic University, Hong Kong under the supervision of Prof. [Kainam Thomas Wang](https://scholar.google.se/citations?user=kCs2aSQAAAAJ&hl=en). From 2014 - 2016, I was a Postdoc at University Paderborn, Germany, working with Prof. [Peter Schreier](https://sst-group.org/). From 2016 to 2022, I have been working as a Senior Research Fellow with Prof. [Tay Wee Peng](https://personal.ntu.edu.sg/wptay/) at Nanyang Technological University, Singapore.
 
-* My research interest is robust machine learning and statistical signal processing.
+* My research interests include robust machine learning, statistical signal processing, LLM finetuning, and autonomous agentic systems.
 
 
 # Recent News
-* Our paper entitled "[NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](https://arxiv.org/abs/2601.21372)" has been accepted by ICML 2026.
+* Our paper entitled "[NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](https://arxiv.org/abs/2601.21372)" has been accepted by ICML 2026 (acceptance rate: 26.6%).
 * Our paper entitled "Node embedding from neural Hamiltonian orbits in graph neural networks"  has been accepted by
 ICML 2023 (acceptance rate: 27.9%).
 * Our paper entitled "Graph neural convection-diffusion with heterophily"  has been accepted by
