@@ -16,10 +16,7 @@ Education
 
 Work Experience
 ======
-* May 2026 – Present: Staff Machine Learning Engineer
-  * PayPal, Agentic Systems
-
-* July 2022 – April 2026: Lead Data Scientist
+* July 2022 – 2026: Lead Data Scientist
   * C3.ai, Singapore
 
 * 2016 – 2022: Senior Research Fellow
